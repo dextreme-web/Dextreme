@@ -20,12 +20,12 @@ Tech Stack and Dependencies
 
 Project Structure
 
-- index.html            # Main markup and embedded interaction scripts
-- style.css             # Main stylesheet
-- dxtrjms.jpg           # Profile picture
-- dex.jpg               # Secondary image
-- Dexter_Alonzo_CV.pdf  # Downloadable resume
-- README.md             # Project documentation
+- index.html                      # Main markup and embedded interaction scripts
+- style.css                       # Main stylesheet
+- dxtrjms.jpg                     # Profile picture
+- dex.jpg                         # Secondary image
+- Dexter_Alonzo_CV.pdf            # Downloadable resume
+- README.md                       # Project documentation
 
 Connect With Me
 
