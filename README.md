@@ -26,3 +26,9 @@ Project Structure
 - dex.jpg               # Secondary image
 - Dexter_Alonzo_CV.pdf  # Downloadable resume
 - README.md             # Project documentation
+
+Connect With Me
+GitHub: @dextreme-web
+Telegram: @clyx_sys
+Instagram: @simple_dxtrjms
+Facebook: Dexter James Alonzo
